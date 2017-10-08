@@ -1,0 +1,1 @@
+require('gamemodes/account.js');
